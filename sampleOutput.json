@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "talksport",
+    "name": "TalkSport"
+    },
+    "author": "Jackson Cole",
+    "title": "Stuart Broad makes England cricket history as he claims landmark 600th Test wicket...",
+    "description": "Stuart Broad claimed a landmark 600th Test wicket on the first day of the fourth Ashes Test at Old Trafford. The fast bowler dismissed Australia’s Travis Head, who pulled Broad’s bounce…",
+    "url": "https://talksport.com/sport/cricket/1503277/stuart-broad-england-cricket-history-600th-test-wicket-the-ashes/",
+    "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/07/englands-stuart-broad-celebrates-taking-832771485.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+    "publishedAt": "2023-07-19T15:38:52Z",
+    "content": "Stuart Broad claimed a landmark 600th Test wicket on the first day of the fourth Ashes Test at Old Trafford. The fast bowler dismissed Australia's Travis Head, who pulled Broad's bouncer straight in… [+1066 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "England bowler Broad takes 600th Test wicket",
+    "description": "England's Stuart Broad becomes just the second pace bowler to take 600 wickets in Test cricket after removing Australia's Travis Head in the fourth Ashes Test.",
+    "url": "http://www.bbc.co.uk/sport/cricket/66134032",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+    "publishedAt": "2023-07-19T15:22:24.0651225Z",
+    "content": "England's Stuart Broad has become just the second pace bowler to take 600 wickets in Test cricket. Broad, 36, reached the mark by removing Australia's Travis Head on day one of the fourth Ashes Test… [+2850 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+    "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+    "publishedAt": "2020-04-27T11:41:47Z",
+    "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+    "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+    "publishedAt": "2020-03-30T15:26:05Z",
+    "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+    ]
+    }
